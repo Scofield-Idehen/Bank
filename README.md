@@ -1,4 +1,4 @@
-# Bank
+#  SOLIDITY Bank CONTRACT 
 A dynamic contract that allows User Deposit and withdraw ETH!!
 THE PROCESS 
 
